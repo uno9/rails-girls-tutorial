@@ -3,9 +3,11 @@
 ## 参考資料
 
 - rails　インストール時のエラー
-https://qiita.com/NaokiIshimura/items/8203f74f8dfd5f6b87a0
+  https://qiita.com/NaokiIshimura/items/8203f74f8dfd5f6b87a0
 - rails girls
-https://railsgirls.jp/app
+  https://railsgirls.jp/app
+- rails install
+  https://zenn.dev/s7/articles/b3252543eab33a65052a
 
 ---
 
